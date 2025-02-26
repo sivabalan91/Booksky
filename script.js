@@ -44,6 +44,11 @@ container.append(div)
 popup.style.display="none"
 popupbox.style.display="none"
 
+title.value=""
+author.value=""
+short.value=""
+
+
 
 })
 
